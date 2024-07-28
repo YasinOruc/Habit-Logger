@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Habit Logger": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\orucy\\source\\repos\\Habit Logger\\Habit Logger"
+    }
+  }
+}
